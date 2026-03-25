@@ -209,20 +209,6 @@ Shared metrics across all methods:
 
 ---
 
-## Citation
-
-If you use this code or dataset in your research, please cite:
-
-```bibtex
-@article{afzaal2025zeroshotcrop,
-  title={Zero-Shot Crop Segmentation via 3D Depth-Aware Vision Pipeline using Unsupervised Clustering},
-  author={Afzaal, Hassan and Farooque, Aitazaz A. and Randhawa, Gurjit S. and Schumann, Arnold W. and Krouglicof, Nicholas and Gill, Yuvraj S. and Zaman, Qamar U.},
-  year={2025}
-}
-```
-
----
-
 ## Acknowledgments
 
 This research was supported by the Natural Sciences and Engineering Research Council of Canada (NSERC) through the Canada Graduate Scholarship and the NSERC Alliance Sustainable Agriculture Initiative Program.
