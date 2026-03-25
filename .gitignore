@@ -1,6 +1,6 @@
 # Miscellaneous (internal development files, outputs, full dataset)
 misc/
-
+outputs/
 # Python
 __pycache__/
 *.py[cod]
