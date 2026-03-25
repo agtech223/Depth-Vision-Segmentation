@@ -1,0 +1,27 @@
+# Core deep learning
+torch>=2.0
+torchvision>=0.15
+
+# Hugging Face model hub (Depth Pro, Depth Anything V2, DPT-Large, GroundingDINO, CLIPSeg)
+transformers>=4.40
+
+# Numerical & image processing
+numpy>=1.23
+pillow>=8.0
+opencv-python>=4.5
+scipy>=1.10
+
+# Clustering & metrics
+scikit-learn>=1.2
+
+# Data analysis
+pandas>=2.0
+
+# Visualisation
+matplotlib>=3.7
+
+# Progress bar
+tqdm>=4.0
+
+# Zero-shot segmentation (GroundingDINO + SAM)
+segment-anything @ git+https://github.com/facebookresearch/segment-anything.git

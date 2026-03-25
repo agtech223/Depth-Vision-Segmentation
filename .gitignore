@@ -1,0 +1,44 @@
+# Miscellaneous (internal development files, outputs, full dataset)
+misc/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+dist/
+build/
+*.egg
+
+# Virtual environments
+venv/
+env/
+.venv/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Model weights
+*.pth
+*.pt
+*.bin
+*.onnx
+*.safetensors
+
+# Large data files
+*.npy
+!sample_data/**/*.npy
+
+# Outputs
+*_outputs/
+*_residuals/
+
+# Claude Code settings
+.claude/
