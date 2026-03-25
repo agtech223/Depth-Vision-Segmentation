@@ -1,6 +1,7 @@
 # Miscellaneous (internal development files, outputs, full dataset)
 misc/
 outputs/
+sample_data/
 # Python
 __pycache__/
 *.py[cod]
@@ -34,7 +35,6 @@ Thumbs.db
 
 # Large data files
 *.npy
-!sample_data/**/*.npy
 
 # Outputs
 *_outputs/
